@@ -3,6 +3,7 @@
     <!-- <weather />
     <HelloWorld />
     <demo /> -->
+    <h2>我的音乐</h2>
     <music />
   </div>
 </template>
